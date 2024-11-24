@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 
-- 🤓 I’m currently working on backend
-- 🐍 I’m currently learning graphs and algorithms with python
+- 🤓 I’m currently working with pentest and cybersecurity (Wireless, software and hardware gadgets)
+- 🐍 I’m currently learning data structures and algorithms with python 
 - 📫 How to reach me: 📧 murilo_oliveira199723@outlook.com
+- 🐧Kali linux
 - 😄 Pronouns: He/His
 ##
         
