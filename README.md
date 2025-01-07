@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 
-- 🤓 I’m currently working with pentest and cybersecurity (Wireless, software and hardware gadgets)
+- 🤓 I’m currently working with pentest and cybersecurity
 - 🐍 I’m currently learning data structures and algorithms with python 
 - 📫 How to reach me: 📧 murilo_oliveira199723@outlook.com
-- 🐧Kali linux
+- 🐧Kali linux/Ubuntu
 - 😄 Pronouns: He/His
 ##
         
